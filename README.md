@@ -1,4 +1,3 @@
-You said:
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=180&text=あの場所は約束の最中&animation=twinkling&fontColor=ffff00&fontSize=50&font=sans-serif" />
     </div>
