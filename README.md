@@ -2,8 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=180&text=あの場所は約束の最中&animation=twinkling&fontColor=ffff00&fontSize=70&font=sans-serif" />
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 2023.06 ~ : Intern at POSTECH computer graphics lab</li></li><li> First author of the DMDPS paper                     </li></li><li> Build computer genetared holography of PADO         </div> 
+    <a href="https://www.youtube.com/watch?v=SYo7GMuUacY" style="text-decoration: none;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About me </h2>
+</a> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 2023.06 ~ : Intern at POSTECH computer graphics lab</li></li><li> First author of the DMDPS paper</li></li><li> Build computer genetared holography of PADO</div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🕹️ Tech Stacks </h2> <br> 
