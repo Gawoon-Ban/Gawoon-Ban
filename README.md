@@ -4,7 +4,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About me </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-        <li> 2023.06 ~ : Intern at 
+        <li> 2024.06 ~ : Intern at 
             <a href="https://www.shbaek.com/" style="color: #58a6ff; text-decoration: none;">POSTECH computer graphics lab</a>
         </li>
         <li> First author of the 
