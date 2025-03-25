@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 2023.06 ~ : Intern at POSTECH computer graphics lab</li></li><li> FIrst author of the DMDPS paper</li></li><li> Build computer genetared holography of PADO </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🕹️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white">
@@ -20,7 +20,7 @@
           <br/></div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⛩️ Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:bestban04@postech.ac.kr> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Email&logoColor=white&link=mailto:bestban04@postech.ac.kr"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
