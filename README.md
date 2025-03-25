@@ -7,13 +7,13 @@
     <ul style="list-style: none; padding: 0;">
         <li> 2023.06 ~ : Intern at 
             <a href="https://www.shbaek.com/" style="color: #58a6ff; text-decoration: none;">POSTECH computer graphics lab</a>
-        </li>
+        </li></li>
         <li> First author of the 
             <a href="https://gawoon-ban.github.io/" style="color: #58a6ff; text-decoration: none;">DMDPS paper</a>
-        </li>
+        </li></li>
         <li> Build computer generated holography of 
             <a href="https://github.com/shwbaek/pado" style="color: #58a6ff; text-decoration: none;">PADO</a>
-        </li>
+        </li></li>
     </ul>
 </div>
     <div align= "center">
