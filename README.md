@@ -1,9 +1,8 @@
-<div align="center">
-    <p style="font-family: 'Noto Sans JP', sans-serif; font-size: 50px; color: yellow;">
-        あの場所は約束の最中
-    </p>
-</div>
-    <div align= "center"> 
+You said:
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=180&text=あの場所は約束の最中&animation=twinkling&fontColor=ffff00&fontSize=50&font=sans-serif" />
+    </div>
+    <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 2023.06 ~ : Intern at POSTECH computer graphics lab</li></li><li> FIrst author of the DMDPS paper</li></li><li> Build computer genetared holography of PADO </div> 
     </div>
