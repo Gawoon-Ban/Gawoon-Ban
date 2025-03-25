@@ -8,7 +8,7 @@
             <a href="https://www.shbaek.com/" style="color: #58a6ff; text-decoration: none;">POSTECH computer graphics lab</a>
         </li>
         <li> First author of the 
-            <a href="https://gawoon-ban.github.io/" style="color: #58a6ff; text-decoration: none;">DMDPS paper</a>
+            <a href="https://gawoon-ban.github.io/" style="color: #58a6ff; text-decoration: none;">DMDPS</a>
         </li>
         <li> Build computer generated holography of 
             <a href="https://github.com/shwbaek/pado" style="color: #58a6ff; text-decoration: none;">PADO</a>
