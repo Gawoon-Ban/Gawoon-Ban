@@ -38,9 +38,3 @@
         <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Email&logoColor=white&link=mailto:bestban04@postech.ac.kr">
     </a>
 </div>
-
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-<div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gawoon-Ban&bg_color=180,fffafa,00000000&title_color=000000&text_color=000000"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gawoon-Ban&layout=compact&bg_color=180,fffafa,00000000&title_color=000000&text_color=000000"/>
-</div>
