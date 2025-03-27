@@ -16,4 +16,3 @@
         </li>
     </ul>
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bestban04)](https://solved.ac/bestban04)
