@@ -14,5 +14,8 @@
         <li> Build computer generated holography of 
             <a href="https://github.com/shwbaek/pado" style="color: #58a6ff; text-decoration: none;">PADO</a>
         </li>
+        <li> 2025.06~2025.08 : Intern at 
+            <a href="https://shiftup.co.kr/" style="color: #58a6ff; text-decoration: none;">ShiftUp nikke client team</a>
+        </li>
     </ul>
 </div>
