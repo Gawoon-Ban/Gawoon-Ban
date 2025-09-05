@@ -15,10 +15,10 @@
             <a href="https://github.com/shwbaek/pado" style="color: #58a6ff; text-decoration: none;">PADO</a>
         </li>
         <li> 2025.06~2025.08 : Intern at 
-            <a href="https://x.com/NIKKE_kr/status/1962814740574675067?t=3NG4NDKyoxfM9vrj3aDiLA&s=19" style="color: #58a6ff; text-decoration: none;">ShiftUp nikke client team</a>
+            <a href="https://shiftup.co.kr/" style="color: #58a6ff; text-decoration: none;">ShiftUp nikke client team</a>
         </li>
         <li> Develop NIKKE minigame
-            <a href="https://shiftup.co.kr/" style="color: #58a6ff; text-decoration: none;">MADE IN RUSH</a>
+            <a href="https://x.com/NIKKE_kr/status/1962814740574675067?t=3NG4NDKyoxfM9vrj3aDiLA&s=19" style="color: #58a6ff; text-decoration: none;">MADE IN RUSH</a>
         </li>
     </ul>
 </div>
