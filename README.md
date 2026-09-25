@@ -10,10 +10,31 @@
 <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
   <ul style="list-style: none; padding: 0; margin: 0;">
     <li>
+      2023.02 ~ Present: Major in Computer Science and Engineering at
+      <span style="color: #c9d1d9;">POSTECH</span>
+    </li>
+    <li>
       2024.06 ~ 2026.01: Intern at
       <a href="https://www.shbaek.com/" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
         POSTECH Computer Graphics Lab
       </a>
+    </li>
+    <li>
+      Research: Text-to-Image Optical Generative Model (SLM &amp; DOE)
+      <ul style="list-style: none; padding: 6px 0 0 14px; margin: 0;">
+        <li>
+          Replace GPU-heavy generation with optical elements (SLM/DOE).
+        </li>
+        <li>
+          Training: optimize SLM/DOE patterns via Python-based optical simulation (forward is simulated).
+        </li>
+        <li>
+          Inference: generate images from user text prompts using fabricated optical elements after training.
+        </li>
+        <li>
+          Low-resolution experiments were used due to rapidly increasing training time at higher resolutions.
+        </li>
+      </ul>
     </li>
     <li>
       First author of
