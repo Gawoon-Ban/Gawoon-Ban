@@ -20,12 +20,6 @@
       </a>
     </li>
     <li>
-      Research: 
-      <a href="https://github.com/Gawoon-Ban/Text-to-Image-Optical-Generative-Model.git" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
-        Text-to-Image Optical Generative Model (SLM &amp; DOE)
-      </a>
-    </li>
-    <li>
       First author of
       <a href="https://gawoon-ban.github.io/" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
         DMDPS
@@ -35,6 +29,18 @@
       Building computer-generated holography for
       <a href="https://github.com/shwbaek/pado" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
         PADO
+      </a>
+    </li>
+    <li>
+      Research: 
+      <a href="https://github.com/Gawoon-Ban/Text-to-Image-Optical-Generative-Model.git" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
+        Text-to-Image Optical Generative Model (SLM &amp; DOE)
+      </a>
+    </li>
+    <li>
+      Research: 
+      <a href="https://github.com/Gawoon-Ban/Text-to-Image-Optical-Generative-Model.git" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
+        Differentiable Rendering of Neural SDFs through Reparameterization
       </a>
     </li>
     <li>
