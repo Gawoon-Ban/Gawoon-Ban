@@ -39,7 +39,7 @@
     </li>
     <li>
       Research: 
-      <a href="https://github.com/Gawoon-Ban/Text-to-Image-Optical-Generative-Model.git" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Gawoon-Ban/Differentiable-Rendering-of-Neural-SDFs-through-Reparameterization.git" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
         Differentiable Rendering of Neural SDFs through Reparameterization
       </a>
     </li>
