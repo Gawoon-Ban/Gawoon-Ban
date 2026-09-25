@@ -21,7 +21,7 @@
     </li>
     <li>
       Research: 
-      <a href="[https://gawoon-ban.github.io/](https://github.com/Gawoon-Ban/Text-to-Image-Optical-Generative-Model.git)" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Gawoon-Ban/Text-to-Image-Optical-Generative-Model.git" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
         Text-to-Image Optical Generative Model (SLM &amp; DOE)
       </a>
     </li>
