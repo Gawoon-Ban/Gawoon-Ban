@@ -20,21 +20,10 @@
       </a>
     </li>
     <li>
-      Research: Text-to-Image Optical Generative Model (SLM &amp; DOE)
-      <ul style="list-style: none; padding: 6px 0 0 14px; margin: 0;">
-        <li>
-          Replace GPU-heavy generation with optical elements (SLM/DOE).
-        </li>
-        <li>
-          Training: optimize SLM/DOE patterns via Python-based optical simulation (forward is simulated).
-        </li>
-        <li>
-          Inference: generate images from user text prompts using fabricated optical elements after training.
-        </li>
-        <li>
-          Low-resolution experiments were used due to rapidly increasing training time at higher resolutions.
-        </li>
-      </ul>
+      Research: 
+      <a href="https://gawoon-ban.github.io/" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
+        Text-to-Image Optical Generative Model (SLM &amp; DOE)
+      </a>
     </li>
     <li>
       First author of
