@@ -15,28 +15,24 @@
         POSTECH Computer Graphics Lab
       </a>
     </li>
-
     <li>
       First author of
       <a href="https://gawoon-ban.github.io/" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
         DMDPS
       </a>
     </li>
-
     <li>
       Building computer-generated holography for
       <a href="https://github.com/shwbaek/pado" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
         PADO
       </a>
     </li>
-
     <li>
       2025.06 ~ 2025.08: Intern at
       <a href="https://shiftup.co.kr/" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
         Shift Up NIKKE Client Team
       </a>
     </li>
-
     <li>
       Developed NIKKE minigame
       <a href="https://x.com/NIKKE_kr/status/1962814740574675067?t=3NG4NDKyoxfM9vrj3aDiLA&s=19" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
