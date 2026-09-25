@@ -34,8 +34,11 @@
     <li>
       Research: 
       <a href="https://github.com/Gawoon-Ban/Text-to-Image-Optical-Generative-Model.git" style="color: #58a6ff; text-decoration: none;" target="_blank" rel="noopener noreferrer">
-        Text-to-Image Optical Generative Model (SLM &amp; DOE)
+        Text-to-Image Optical Generative Model (SLM &amp; DOE) 🏆
       </a>
+      <ul style="list-style: none; padding: 6px 0 0 14px; margin: 0;">
+        <li>Selected as an <b>Outstanding Presentation</b> in <b>POSTECH Fall 2025 Course Project Research</b>.</li>
+      </ul>
     </li>
     <li>
       Research: 
